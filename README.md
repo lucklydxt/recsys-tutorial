@@ -1,5 +1,5 @@
-# 推荐系统
+推荐系统
 
-vscode浏览`推荐系统项目.md`需要安装`markdown all in one`插件
-
-chrome浏览`推荐系统项目.md`需要安装`MathJax Plugin for Github`插件
+基于物品的协同过滤算法itemCF
+基于隐语义模型的-ALS(交叉最小二乘法) ，矩阵分解模型的算法
+基于建模形成的算法做实时推荐使用
